@@ -27,14 +27,16 @@ using namespace std;
 
 /* int means return an integer. main is the first function the compiler comes 
 across only one per programme. Nothing passed into it.
-Should be as sparse as possible just for calling functions
+Should be as sparse as possible just for calling functions.
+
+Functions wrapped by curly brackets.
 */
 
 int main()
 {
 // cout - console output. << insertion operator which inserts something to the screen.
 // endl - end line
-    cout << "Welcome to the C++ course" << endl;
+    cout << "Welcome to the C++ course \n" << endl;
 // Gotta return some value and 0 is a good one
 return 0;
 }
