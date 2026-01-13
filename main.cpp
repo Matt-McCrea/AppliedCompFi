@@ -24,7 +24,6 @@ Strands provide reusability, modularity, inheritence
 // Treat everything in a standard way
 using namespace std;
 
-
 /* int means return an integer. main is the first function the compiler comes 
 across only one per programme. Nothing passed into it.
 Should be as sparse as possible just for calling functions
