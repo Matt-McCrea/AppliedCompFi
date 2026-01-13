@@ -4,6 +4,6 @@
 using namespace std;
 int main()
 {
-cout << M_PI << '\t'<< M_E;
+cout << M_PI << '\t'<< M_E << endl;
 return 0;
 }
