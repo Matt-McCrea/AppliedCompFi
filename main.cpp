@@ -39,3 +39,5 @@ int main()
 // Gotta return some value and 0 is a good one
 return 0;
 }
+
+// initialise every variable
