@@ -42,6 +42,7 @@
 
 # Compiled binaries
 main
+quad_equ
 *.out
 *.exe
 
